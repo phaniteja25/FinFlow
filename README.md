@@ -3,6 +3,9 @@
 <h2>About the Project</h2>
 In today's fast-paced and dynamic financial landscape, managing personal finances efficiently is a challenge that many individuals face. Recognizing the need for a comprehensive solution, our team has chosen to design and build "FinFlow", an innovative app that serves as the ultimate financial companion for users. The app aims to simplify the complexities associated with budgeting, staying abreast with finance news, Stock market and receiving reminders of recurring bill payments. Many individuals struggle to navigate multiple apps and platforms to meet ​their​ financial needs, leading to fragmented and time-consuming experiences. FinFlow seeks to streamline these processes and provide users with a unified platform for all their financial activities.
 
+<h2>Demo</h2>
+https://www.youtube.com/watch?v=cABHc38O_EM&t=1s
+
 <h2>Tech Stack used:</h2>
 <ul>
  <li>App Development Framework : Android Studio</li>
@@ -50,6 +53,4 @@ Users shall be able to explore diverse news categories (Finance and Business New
   
 </ul>
 
-<h2>Demo</h2>
 
-https://www.youtube.com/watch?v=cABHc38O_EM&t=1s
